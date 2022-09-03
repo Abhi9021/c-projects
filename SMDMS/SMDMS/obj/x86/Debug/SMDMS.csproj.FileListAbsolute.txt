@@ -1,0 +1,12 @@
+c:\users\hp\documents\visual studio 2010\Projects\SMDMS\SMDMS\bin\Debug\SMDMS.exe
+c:\users\hp\documents\visual studio 2010\Projects\SMDMS\SMDMS\bin\Debug\SMDMS.pdb
+c:\users\hp\documents\visual studio 2010\Projects\SMDMS\SMDMS\obj\x86\Debug\SMDMS.Form1.resources
+c:\users\hp\documents\visual studio 2010\Projects\SMDMS\SMDMS\obj\x86\Debug\SMDMS.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\SMDMS\SMDMS\obj\x86\Debug\SMDMS.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\SMDMS\SMDMS\obj\x86\Debug\SMDMS.exe
+c:\users\hp\documents\visual studio 2010\Projects\SMDMS\SMDMS\obj\x86\Debug\SMDMS.pdb
+C:\Users\hp\documents\visual studio 2010\Projects\SMDMS\SMDMS\obj\x86\Debug\SMDMS.new11.resources
+C:\Users\hp\documents\visual studio 2010\Projects\SMDMS\SMDMS\obj\x86\Debug\SMDMS.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2010\Projects\SMDMS\SMDMS\obj\x86\Debug\SMDMS.home.resources
+C:\Users\hp\documents\visual studio 2010\Projects\SMDMS\SMDMS\obj\x86\Debug\SMDMS.search1.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\SMDMS\SMDMS\obj\x86\Debug\SMDMS.changes.resources
